@@ -1,0 +1,1 @@
+gcc Clinical_Trials.c src/SQLite3/sqlite3.c -o ct.exe -luser32 -lgdi32 -lshell32 -lsqlite3

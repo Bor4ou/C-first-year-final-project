@@ -1,2 +1,2 @@
-# C-first-year-final-project
-C first year final project
+Simple clinical trials DB which is handled through a 
+GUI made with C (WinAPI, sqlite API)
